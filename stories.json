@@ -1,0 +1,23 @@
+{"topics" : ["children's", "detective", "comic", "historic", "mistry", "thriller"],
+"children's":
+            {"1" : 
+                {"story": "One day in {} I saw my {} acting {}. She was {}ing a big {}. Then she went to {} and did it again.",
+                "data_required" : ["city name", "family member", "describing word", "action word", "thing", "place"]}, 
+            "2"  : 
+                {"story": "In {} class yesterday, our teacher was wearing a {} {}. She looked {}. I wanted a {} {} to wear!",
+                "data_required" : ["school subject", "colour", "thing", "describing word", "colour", "thing"]}
+            },
+"detective": {},
+"comic":{},
+"historic":{},
+"mistry":{},
+"thriller":{},
+"words":{"city name":["Mumbai", "Delhi", "Patna", "Laukhnow", "Ayodhya", "Pune"],
+        "family member":["Father", "Mother", "Mom", "Dad", "Grand Father", "Grand Mother", "Aunt", "Uncle", "Brother", "Sister"],
+        "describing word":["beautiful", "Strange", "Happy", "Good", "Ammazing"],
+        "action word":["Play", "Act", "Walk", "Dance", "Run", "Make"],
+        "thing":["Cake", "Box", "Copy", "Pencil", "Mobile", "Laptop"],
+        "place":["Kitchen", "Bathroom", "Bedroom", "Park", "Police Station"],
+        "school subject":["Computer", "Physics", "Maths", "English", "Physical Education", "Chemistry"],
+        "colour":["Red", "Blue", "Green", "Black", "Purple", "Yellow", "Orange", "Voilet", "Indigo"]}
+}
